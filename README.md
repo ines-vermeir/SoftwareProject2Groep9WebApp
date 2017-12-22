@@ -1,6 +1,6 @@
 # SoftwareProject2Groep9WebApp
-
-De link naar de web app: https://dtprojecten.ehb.be/~17SP2G9/ .
+	 
+De link naar de web app: https://dtprojecten.ehb.be/~17SP2G9/. 
 Register: voornaam.achternaam@?.?
   -> voornaam en achternaam moeten uit odata komen, anders kan je niet registreren/inloggen 
   -> na de @ mag er alles ingevuld worden  
